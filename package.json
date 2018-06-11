@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      "aza-node@0.6.4",
+      "E:\\formal\\server"
+    ]
+  ],
+  "_from": "aza-node@0.6.4",
+  "_id": "aza-node@0.6.4",
+  "_inBundle": false,
+  "_integrity": "sha1-DmBeu4/IB5w2ZYhVq3JJXp5hQX0=",
+  "_location": "/aza-node",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "aza-node@0.6.4",
+    "name": "aza-node",
+    "escapedName": "aza-node",
+    "rawSpec": "0.6.4",
+    "saveSpec": null,
+    "fetchSpec": "0.6.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aza-node/-/aza-node-0.6.4.tgz",
+  "_spec": "0.6.4",
+  "_where": "E:\\formal\\server",
+  "author": {
+    "name": "lawrence"
+  },
+  "bugs": {
+    "url": "https://github.com/lawrence-peng/aza-node/issues"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "joi": "^8.0.5",
+    "lodash": "^4.11.1",
+    "moment": "^2.13.0",
+    "morgan": "^1.7.0",
+    "restify": "^4.0.4",
+    "swagger-tools": "*"
+  },
+  "description": "api development framework of restify",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "cloneextend": "0.0.3",
+    "dtrace-provider": "^0.6.0",
+    "joi": "^8.4.2",
+    "jsonwebtoken": "^7.3.0",
+    "request": "^2.74.0"
+  },
+  "homepage": "https://github.com/lawrence-peng/aza-node#readme",
+  "keywords": [
+    "nodejs",
+    "restify",
+    "api desgin",
+    "api development",
+    "swagger-tools",
+    "nodejs framework"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "aza-node2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrence-peng/aza-node.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.5"
+}
