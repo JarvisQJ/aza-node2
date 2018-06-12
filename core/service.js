@@ -10,7 +10,7 @@ module.exports = {
         var paths = [];
         var path = '';
         paths.push(basePath + '/services');
-        paths.push(basePath + '/node_modules/aza-node/services');
+        paths.push(basePath + '/node_modules/aza-node2/services');
         for (var i = 0; i < paths.length; i++) {
             path = paths[i];
             if (fs.existsSync(path)) {
